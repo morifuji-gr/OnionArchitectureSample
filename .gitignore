@@ -1,0 +1,67 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+/Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# for others   #
+# ============ #
+
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
+
+ProjectSettings/GoogleAarExplodeCache.xml
+
+fabric/res/values/strings.xml
+
+Xcode_Device/
+Android.apk
+Android_mapping.txt
+Android-*-v*.symbols.zip
+build.log
+image.png
+/Assets/Resources/Json/*
+/Assets/Resources/Json.meta
+/AndroidStudio/*
+/AssetBundles/
+/.gradle/
+
+.vscode/
+settings.json
+
+# Visual Studio cache directory
+.vs/
+
+# ReferenceViewer
+Assets/Test.asset
+Assets/Test.asset.meta
+/build/
